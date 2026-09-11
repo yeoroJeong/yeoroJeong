@@ -1,6 +1,21 @@
 <img src="./assets/header.svg" alt="정현수 | AI · Software — From data to working software" width="100%" />
 
-# 안녕하세요, 정현수입니다.
+<div align="center">
+
+### 정현수 · AI / SW
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-202B3C?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-23483C?style=for-the-badge&amp;logo=android&amp;logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/Unity-252A34?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+</p>
+
+</div>
 
 **데이터를 수집하고 검증해, 사용자가 쓸 수 있는 서비스로 연결합니다.**
 
@@ -12,7 +27,7 @@
 
 ## Selected Projects
 
-### 01 · Data Next
+[![Data Next](./assets/data-next.svg)](https://github.com/yeoroJeong/Data_next)
 **데이터·AI·SW 신입 채용 공고를 모으는 채용 보드**
 
 공식 채용 정보를 수집하고, 신입 지원 가능 여부와 마감 상태를 검증해 게시하는 서비스입니다.
@@ -30,7 +45,7 @@
 
 <br />
 
-### 02 · Algorithm Study & Code Review
+[![Algorithm Study](./assets/algorithm-study.svg)](https://github.com/yeoroJeong/algorithm-study-code-review)
 **풀이 제출부터 리뷰까지 이어지는 알고리즘 스터디**
 
 주차별 문제 풀이와 코드 리뷰를 함께 기록하는 팀 저장소입니다. 개인 풀이와 함께, 반복되는 스터디 운영을 자동화한 구조를 확인할 수 있습니다.
@@ -45,7 +60,7 @@
 
 <br />
 
-### 03 · Algorithm Pro Tips
+[![Algorithm Pro Tips](./assets/pro-tips.svg)](https://github.com/yeoroJeong/Algorithm_Pro_Tips)
 **문제 조건에서 알고리즘 선택까지 연결하는 학습 가이드**
 
 - 그래프 탐색·최단 경로·Union-Find·구간 질의 등 유형별 판단 기준 정리
@@ -62,16 +77,7 @@
 
 **프로젝트에서 활용한 기술**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-202B3C?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-23483C?style=flat-square&amp;logo=android&amp;logoColor=3DDC84" alt="Android" />
-  <img src="https://img.shields.io/badge/Unity-252A34?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-</p>
+
 
 | 영역 | 활용 경험 |
 | :--- | :--- |
@@ -95,3 +101,4 @@
 ---
 
 <sub>사용자 화면부터 데이터 처리까지, 서비스의 흐름을 이해하며 성장하고 있습니다.</sub>
+
