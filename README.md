@@ -71,7 +71,7 @@
 
 <br />
 
-[![Data Next](./assets/data-next.svg)](https://github.com/yeoroJeong/Data_next)
+[![Data Next](./assets/data-next.svg?v=04)](https://github.com/yeoroJeong/Data_next)
 **데이터·AI·SW 신입 채용 공고를 모으는 채용 보드**
 
 공식 채용 정보를 수집하고, 신입 지원 가능 여부와 마감 상태를 검증해 게시하는 서비스입니다.
@@ -89,7 +89,7 @@
 
 <br />
 
-[![Algorithm Study](./assets/algorithm-study.svg)](https://github.com/yeoroJeong/algorithm-study-code-review)
+[![Algorithm Study](./assets/algorithm-study.svg?v=05)](https://github.com/yeoroJeong/algorithm-study-code-review)
 **풀이 제출부터 리뷰까지 이어지는 알고리즘 스터디**
 
 주차별 문제 풀이와 코드 리뷰를 함께 기록하는 팀 저장소입니다. 개인 풀이와 함께, 반복되는 스터디 운영을 자동화한 구조를 확인할 수 있습니다.
@@ -104,7 +104,7 @@
 
 <br />
 
-[![Algorithm Pro Tips](./assets/pro-tips.svg)](https://github.com/yeoroJeong/Algorithm_Pro_Tips)
+[![Algorithm Pro Tips](./assets/pro-tips.svg?v=06)](https://github.com/yeoroJeong/Algorithm_Pro_Tips)
 **문제 조건에서 알고리즘 선택까지 연결하는 학습 가이드**
 
 - 그래프 탐색·최단 경로·Union-Find·구간 질의 등 유형별 판단 기준 정리
@@ -144,5 +144,6 @@
 ---
 
 <sub>사용자 화면부터 데이터 처리까지, 서비스의 흐름을 이해하며 성장하고 있습니다.</sub>
+
 
 
