@@ -1,18 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">HYUNSOO JEONG — AI / SOFTWARE</title>
-  <desc id="desc">From data to working software. SSAFY 16th, Data Track.</desc>
-  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1829"/><stop offset="1" stop-color="#172e43"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9db8d0" stroke-opacity=".07"/></pattern></defs>
-  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
-  <rect x="56" y="55" width="4" height="23" rx="2" fill="#66e2c4"/>
-  <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="76" y="72" fill="#66e2c4" font-size="15" font-weight="600" letter-spacing="4">AI / SOFTWARE</text>
-    <text x="54" y="150" fill="#f0f6fc" font-size="57" font-weight="700" letter-spacing="-1.5">HYUNSOO JEONG</text>
-    <text x="57" y="195" fill="#bccbda" font-size="23">From data to working software.</text>
-    <text x="57" y="266" fill="#8da7bf" font-size="14" letter-spacing="2">SSAFY 16TH · DATA TRACK</text>
-    <g transform="translate(866 86)" fill="none" stroke="#66e2c4" stroke-width="2">
-      <path d="M0 70H62L106 0H181M62 70L106 140H181M62 70H211" stroke-opacity=".4"/>
-      <circle cy="70" r="8" fill="#193d46"/><circle cx="62" cy="70" r="8" fill="#193d46"/><circle cx="181" r="8" fill="#193d46"/><circle cx="211" cy="70" r="8" fill="#193d46"/><circle cx="181" cy="140" r="8" fill="#193d46"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090d20"/><stop offset="1" stop-color="#18234c"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#63f3db"/><stop offset=".5" stop-color="#63b8ff"/><stop offset="1" stop-color="#ad83ff"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#665dff" stop-opacity=".48"/><stop offset="1" stop-color="#665dff" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8b9ed6" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="440" rx="24" fill="url(#bg)"/><rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+<circle cx="985" cy="208" r="270" fill="url(#halo)"/><path d="M24 2H1176" stroke="url(#accent)" stroke-width="4"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="52" y="42" width="211" height="32" rx="16" fill="#122f3e" stroke="#63f3db" stroke-opacity=".5"/><circle cx="70" cy="58" r="4" fill="#63f3db"/><text x="84" y="63" fill="#93ffe9" font-size="12" font-weight="700" letter-spacing="2">AI / SW DEVELOPER</text>
+<text x="48" y="157" fill="#f4f7ff" font-size="75" font-weight="800" letter-spacing="-3">HYUNSOO</text>
+<text x="48" y="238" fill="url(#accent)" font-size="84" font-weight="800" letter-spacing="-3">JEONG.</text>
+<text x="53" y="282" fill="#c0cce7" font-size="22">From data to working software.</text>
+<text x="53" y="319" fill="#7c91b9" font-size="13" letter-spacing="3">SSAFY 16TH / DATA TRACK</text>
+<g transform="translate(844 183)">
+<g fill="none" stroke="url(#accent)"><circle r="116" stroke-opacity=".22"/><circle r="91" stroke-width="2" stroke-dasharray="5 12"/><ellipse rx="155" ry="53" transform="rotate(-35)" stroke-width="2"/><ellipse rx="155" ry="53" transform="rotate(35)" stroke-opacity=".7"/></g>
+<path d="M0-68L59-34V34L0 68L-59 34V-34Z" fill="#142749" stroke="#77e6ff" stroke-width="2"/><path d="M0 0L0 68M0 0L59-34M0 0L-59-34" stroke="#77e6ff" stroke-opacity=".5"/><text x="0" y="9" text-anchor="middle" fill="#e0fdff" font-size="25" font-weight="700">JHS</text>
+<circle cx="126" cy="-63" r="7" fill="#a391ff"/><circle cx="-128" cy="65" r="6" fill="#63f3db"/><circle cy="-116" r="5" fill="#63b8ff"/>
+</g>
+<path d="M52 354H1148" stroke="#526691" stroke-opacity=".4"/>
+<text x="54" y="396" fill="#63f3db" font-size="13" font-weight="700" letter-spacing="2">01 / DATA PIPELINES</text><text x="422" y="396" fill="#77bfff" font-size="13" font-weight="700" letter-spacing="2">02 / SOFTWARE</text><text x="790" y="396" fill="#b09aff" font-size="13" font-weight="700" letter-spacing="2">03 / PROBLEM SOLVING</text>
+</g></svg>
