@@ -27,7 +27,7 @@
 
 ## Selected Projects
 
-### 🧭 LocalHub · 지역정보 & AI 챗봇
+[![LocalHub](./assets/localhub.svg)](https://github.com/Moon-ye-rin/LocalHub)
 **서울·경기 지역정보를 검색하고 대화·지도·커뮤니티로 연결하는 협업 프로젝트**
 
 **담당 역할** — 팀 아이디어를 취합해 요구사항을 정리하고, AI 개발 도구에 전달할 구현용 프롬프트를 작성했습니다. 팀원들과 AI를 활용해 공동 개발했습니다. 아래는 팀이 함께 구현한 기능입니다.
@@ -46,7 +46,7 @@
 
 <br />
 
-### 🎮 Carbon Neutral Mobile Game · Unity 캡스톤
+[![Carbon Neutral Mobile Game](./assets/carbon-game.svg)](https://github.com/MobileGameInha/Capstone-Mobile-Game)
 **탄소중립을 타일 게임의 규칙과 시각 효과로 풀어낸 교육형 캐주얼 게임**
 
 - **게임 시스템** — 타일 입력·점수·탄소 게이지, 피버 모드, 조력자·방해자, 스테이지·챌린지
@@ -60,7 +60,7 @@
 
 <br />
 
-### 📱 Car-Give · Android
+[![Car-Give Android](./assets/car-give.svg)](https://github.com/Car-Give/Android)
 **Kotlin 기반 Android 팀 프로젝트**
 
 로그인·메인 화면의 Activity 구조와 Android UI 구성을 확인할 수 있는 저장소입니다. 프로젝트 의존성에 Retrofit·OkHttp·Gson·ViewModel이 구성되어 있습니다.
@@ -144,4 +144,5 @@
 ---
 
 <sub>사용자 화면부터 데이터 처리까지, 서비스의 흐름을 이해하며 성장하고 있습니다.</sub>
+
 
